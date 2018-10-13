@@ -5,7 +5,7 @@
 
 ### App Walk-though
 
-<img src="https://ezgif.com/video-to-gif/ezgif-2-0886480d6e16.mp4" width=200><br>
+https://ezgif.com/video-to-gif/ezgif-2-0886480d6e16.mp4
 
 ## Required
 - [x] Create New Project in Android Studio
